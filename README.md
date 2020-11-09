@@ -18,8 +18,4 @@ You can't install pos.js yet, but it will be an npm package when version 1.0.0 i
 
 This repo is organized in a weird way (oops), the server folder contains code for a server that will (in the near future) be hosted with examples of how to use pos.js and some creatives uses or pos.js. the actual file that you can implement in your projects is `pos.js`. There is a `package.json` file for the npm package that will be released upon release of version 1.0.0.
 
-<br>
-<br>
-<br>
-
 # Thanks for using pos.js :)

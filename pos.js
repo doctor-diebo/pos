@@ -1,1 +1,3 @@
-// TODO lol
+export const log = ({ cock }) => {
+  console.log(cock);
+};

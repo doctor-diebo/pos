@@ -1,0 +1,28 @@
+{
+  "name": "pos-js",
+  "version": "1.0.0",
+  "description": "pos.js is an easy to use, fast, and accurate Javascript library that serves as a physics engine for your project.",
+  "main": "pos.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://doctor-diebo:DieboAnd05@github.com/doctor-diebo/pos.git"
+  },
+  "keywords": [
+    "physics"
+  ],
+  "author": "Diego Andrade <doctor.diebo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/doctor-diebo/pos/issues"
+  },
+  "homepage": "https://github.com/doctor-diebo/pos#readme",
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}

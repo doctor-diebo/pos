@@ -1,7 +1,3 @@
-module.exports = {
-  Shape: Shape
-};
-
 class Shape {
   constructor(shapeName) {
     switch (shapeName) {
